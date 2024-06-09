@@ -1,0 +1,7 @@
+kali
+whoami
+password
+kaliwhoami
+whoamikali
+root
+kali
