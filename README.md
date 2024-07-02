@@ -3,21 +3,7 @@
 This repository contains a collection of small tools that can be used for various purposes. Each tool is designed to be simple, efficient, and easy to use.
 
 ## List of Tools
-
-### [Crack_MD5](https://github.com/h4jack/tools/tree/main/Websites)
-A tool to crack MD5 hashed passwords.
-
-### [Currency-Converter](https://github.com/h4jack/tools/tree/main/Websites)
-A tool to convert currencies from one unit to another.
-
-### [Password-Generator](https://github.com/h4jack/tools/tree/main/Websites)
-A tool to generate strong and unique passwords.
-
-### [Pdf-to-Docx](https://github.com/h4jack/tools/tree/main/Websites)
-A tool to convert PDF files to Docx format.
-
-### [Rot-32](https://github.com/h4jack/tools/tree/main/Websites)
-A tool to encode and decode text using the ROT-32 algorithm.
+to view the list of tools [click here..](https://github.com/h4jack/tools/tree/main/LIST.md)
 
 ## Adding New Tools
 
