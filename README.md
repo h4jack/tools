@@ -10,7 +10,6 @@ to view the list of tools [click here..](https://github.com/h4jack/tools/tree/ma
 If you have a tool that you'd like to add to this repository, please create a new file in the `addtool` directory with the name of the tool and a brief description of what it does. For example, see [`addtool/README.md`](https://github.com/h4jack/tools/tree/main/addtool/README.md) for more information.
 
 ## Language Used
-----------------
 
 This repository uses Python, JavaScript.
 
